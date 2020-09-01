@@ -1,0 +1,11 @@
+書名輸入
+    search the nook
+    if ( there is  the name in the db ) {
+        show the name is the list
+        show "the name was in the db"
+
+    }
+    else if ( there is not the similar name in the db ) {
+        add the book name in the db
+        show "It add the name in the db"
+    }
